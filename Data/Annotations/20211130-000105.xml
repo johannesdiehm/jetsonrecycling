@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20211130-000105.jpg</filename>
+    <folder>Data</folder>
+    <source>
+        <database>Data</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Undefined_Waste</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>150</xmin>
+            <ymin>48</ymin>
+            <xmax>854</xmax>
+            <ymax>684</ymax>
+        </bndbox>
+    </object>
+</annotation>

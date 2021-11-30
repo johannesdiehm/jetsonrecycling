@@ -1,0 +1,5 @@
+BACKGROUND
+Plastic_Recycling
+Food_Waste
+Paper_Recycling
+Undefined_Waste

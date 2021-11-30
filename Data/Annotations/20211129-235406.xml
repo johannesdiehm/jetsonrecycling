@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20211129-235406.jpg</filename>
+    <folder>Data</folder>
+    <source>
+        <database>Data</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Paper_Recycling</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>222</xmin>
+            <ymin>14</ymin>
+            <xmax>738</xmax>
+            <ymax>448</ymax>
+        </bndbox>
+    </object>
+</annotation>
